@@ -118,6 +118,10 @@ About-Area
   width: 450px;
 }
 
+.about-right-half i {
+  margin-right: 10px;
+}
+
 /*===================== 
 Working-Area Start
 =====================*/
